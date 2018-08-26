@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Monospace;
+  background: gray;
+  color: #fed;
+}
+#main {
+  margin: 25px auto;
+  padding: 12.75px;
+  border: 2px solid;
+  border-radius: 10em;
+  background: #12125255 img {
+    max-width: 100%;
+    display: inherit;
+    height: auto;
+    margin: auto;
+  }
+  #img-div {
+    margin: 10px;
+    margin-top: 15em;
+    width: 100%;
+    border: 10px dashed gold;
+    background: gold;
+  }
+}
+.text-center {
+  text-align: center;
+}
+h1 {
+  font-size: 75px;
+  margin-bottom: 30px;
+}
+h5 {
+  font-style: italic;
+  font-size: 35px;
+}
